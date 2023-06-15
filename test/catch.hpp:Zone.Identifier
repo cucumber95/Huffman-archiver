@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/catchorg/Catch2/tree/v2.x
+HostUrl=https://github-releases.githubusercontent.com/1062572/acaa26d2-2a2e-468a-98ee-3d0602e1df72?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20211011%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211011T204457Z&X-Amz-Expires=300&X-Amz-Signature=8afb056f05c6d0d8a91c1e02aaa17d2e6d9f99f4fbfc7ab7a3a11cc0f477d25d&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=1062572&response-content-disposition=attachment%3B%20filename%3Dcatch.hpp&response-content-type=application%2Foctet-stream
